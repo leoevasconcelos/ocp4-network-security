@@ -1,3 +1,9 @@
+git clone https://github.com/rcarrata/ocp4-network-security.git
+
+git checkout netobserv
+
+cd netobserv
+
 # OpenShift 4 Network Security 
 
 Repository for PoC Network Policies &amp; Egress Firewalls among others security stuff.
